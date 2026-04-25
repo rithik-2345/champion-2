@@ -2,4 +2,4 @@
 learner 2
 
 <br>
-Author - Rithik Joshi
+Author - Rithik Joshi(me)
